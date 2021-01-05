@@ -1,0 +1,9 @@
+mean_force = 1.23523e-11
+box_mass = 1.40669e-12
+Tot_box = 8e+12
+Tot_force = 98818.5
+particles_per_second = 4.20229e+14
+home_planet_mass = 1.26992e+25
+home_planet_radii = 7.88056e+06
+init_rocket_mass = 1100
+home_planet_idx = 0
